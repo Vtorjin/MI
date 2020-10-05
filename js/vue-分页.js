@@ -17,7 +17,7 @@ window.onload = function () {
 
         axios({
           method: "get",
-          url: `https://vtorjin.github.io/rayge/json/${this.page.pageNo}.json`,
+          url: `https://vtorjin.github.io/mi/json/${this.page.pageNo}.json`,
         })
           .then((res) => {
             let data = res.data.sort;

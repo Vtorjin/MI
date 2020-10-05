@@ -12,12 +12,12 @@ import * as Tab from "./choiceMenu.js";
 import * as auto from "./autoComplete.js";
 import * as other from "./other.js";
 
-Data.getData("GET", "https://vtorjin.github.io/rayge/json/sort.json", "sort")
+Data.getData("GET", "https://vtorjin.github.io/mi/json/sort.json", "sort")
   .then((data) => {
     auto.autoComplete(".logNav_search", data);
     return Data.getData(
       "GET",
-      "https://vtorjin.github.io/rayge/json/choice.json",
+      "https://vtorjin.github.io/mi/json/choice.json",
       "datas"
     );
   })
