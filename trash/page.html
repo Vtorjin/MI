@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>分页</title>
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
+</head>
+
+<body>
+    <div class="container">
+        <!--  -->
+        <div class="panel panel-primary" style="margin: 20px">
+            <!-- 头部 -->
+            <div class="panel-heading" @click="test()">
+                <h1>商品信息统计表</h1>
+                <span>
+                    客户总数: <span class="label label-warning">{{page.totalCount}}</span>
+                </span>
+            </div>
+            <!-- 内容 -->
+            <div class="panel-body">
+                <table class="table table-condensed">
+                    <thead>
+                        <tr>
+                            <th>序号</th>
+                            <th>商品名称</th>
+                            <th>商品价格</th>
+                            <th>商品详情</th>
+                        </tr>
+                    </thead>
+                    <tbody class="">
+                        <tr v-for="(val,i) in lists" :key="val.id">
+                            <td>{{jisuan(i)}}</td>
+                            <td>{{val.title}}</td>
+                            <td>{{val.price}}</td>
+                            <td><a type="button" class="btn btn-success btn-sm" target="_blink" :href='val.src'>查看详情</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- 分页 -->
+            <nav aria-label="Page_navigation" style="text-align: center;">
+                <ul class="pagination">
+                    <li :class="page.pageNo == 1 ? 'disabled':''" @click='pagePre()'>
+                        <a href="#" aria-label="Previous">
+                            <span aria-label="hidden">&laquo;</span>
+                        </a>
+                    </li>
+                    <li v-for='i in pages' :class="page.pageNo == i ? 'active':'c'" @click="change(i)">
+                        <a href="#">{{i}}</a>
+                    </li>
+                    <li :class="page.pageNo >= page.pageTotal ? 'disabled':''" @click.pre='pageNext()'>
+                        <a href="#" aria-label="Next">
+                            <span aria-hidden="hidden">&raquo;</span>
+                        </a>
+                    </li>
+
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+
+    <script src="../js/vue-分页.js"></script>
+</body>

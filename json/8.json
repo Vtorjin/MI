@@ -1,0 +1,62 @@
+{
+	"sort": [{
+			"title": "Redmi 10",
+			"price": "1999",
+			"src": "https://www.mi.com/redmi10x-5G",
+			"id": "0071"
+		},
+		{
+			"title": "Redmi 8",
+			"price": "1899",
+			"src": "http://www.mi.com/redminote8",
+			"id": "0072"
+		},
+		{
+			"title": "Redmi 9",
+			"price": "4299",
+			"src": "https://www.mi.com/buy/detail?product_id=10000239",
+			"id": "0073"
+		},
+		{
+			"title": "Redmi 智能电视 MAX",
+			"price": "19999",
+			"src": "https://www.mi.com/redmitv/98",
+			"id": "0074"
+		},
+		{
+			"title": "Redmi 智能电视 55X",
+			"price": "4299",
+			"src": "https://www.mi.com/buy/detail?product_id=12158",
+			"id": "0075"
+		},
+		{
+			"title": "Redmi 红米电视 70",
+			"price": "4999",
+			"src": "https://www.mi.com/redmitv/70",
+			"id": "0076"
+		},
+		{
+			"title": "Redmi G 游戏本",
+			"price": "4599",
+			"src": "https://www.mi.com/redmi-g",
+			"id": "0077"
+		},
+		{
+			"title": "Redmi 16 Pro",
+			"price": "1299",
+			"src": "https://www.mi.com/buy/detail?product_id=10000242",
+			"id": "0078"
+		},
+		{
+			"title": "Redmi 14 X",
+			"price": "2299",
+			"src": "https://www.mi.com/buy/detail?product_id=10000241",
+			"id": "0079"
+		}, {
+			"title": "小米手环4X",
+			"price": "169",
+			"src": "https://www.mi.com/shouhuan4",
+			"id": "0080"
+		}
+	]
+}

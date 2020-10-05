@@ -1,0 +1,426 @@
+ {
+            "datas": [
+                [{
+                    "src": "./img/banner/1.jpg",
+                    "info": "红米9x"
+                },
+                {
+                    "src": "./img/banner/2.jpg",
+                    "info": "小米电视"
+                },
+                {
+                    "src": "./img/banner/3.jpg",
+                    "info": "小米彩色电视"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/3.jpg",
+                    "info": "小米彩色电视"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                }
+                ],
+                [{
+                    "src": "./img/banner/1.jpg",
+                    "info": "红米9x"
+                },
+                {
+                    "src": "./img/banner/2.jpg",
+                    "info": "小米电视"
+                },
+                {
+                    "src": "./img/banner/3.jpg",
+                    "info": "小米彩色电视"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/1.jpg",
+                    "info": "红米9x"
+                },
+                {
+                    "src": "./img/banner/2.jpg",
+                    "info": "小米电视"
+                },
+                {
+                    "src": "./img/banner/3.jpg",
+                    "info": "小米彩色电视"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/1.jpg",
+                    "info": "红米9x"
+                },
+                {
+                    "src": "./img/banner/2.jpg",
+                    "info": "小米电视"
+                },
+                {
+                    "src": "./img/banner/3.jpg",
+                    "info": "小米彩色电视"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/1.jpg",
+                    "info": "红米9x"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/2.jpg",
+                    "info": "小米电视"
+                },
+                {
+                    "src": "./img/banner/3.jpg",
+                    "info": "小米彩色电视"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/1.jpg",
+                    "info": "红米9x"
+                },
+                {
+                    "src": "./img/banner/2.jpg",
+                    "info": "小米电视"
+                },
+                {
+                    "src": "./img/banner/3.jpg",
+                    "info": "小米彩色电视"
+                },
+                {
+                    "src": "./img/banner/4.jpg",
+                    "info": "米家空调"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/5.jpg",
+                    "info": "手环"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ],
+                [{
+                    "src": "./img/banner/1.jpg",
+                    "info": "红米9x"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                },
+                {
+                    "src": "./img/banner/7.jpg",
+                    "info": "小米水杯"
+                },
+                {
+                    "src": "./img/banner/8.jpg",
+                    "info": "小米充电宝"
+                },
+                {
+                    "src": "./img/banner/9.jpg",
+                    "info": "米家插座"
+                },
+                {
+                    "src": "./img/banner/10.jpg",
+                    "info": "米家耳机"
+                },
+                {
+                    "src": "./img/banner/6.jpg",
+                    "info": "打印机"
+                }
+                ]
+            ]
+        }

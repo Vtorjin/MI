@@ -1,0 +1,281 @@
+html,
+body,
+div,
+header,
+main,
+footer,
+a,
+li,
+ul,
+span,
+h2,
+h3,
+h4,
+button,
+i,
+nav,
+img,
+ol,
+em {
+  padding: 0;
+  margin: 0;
+}
+:root {
+  --theme--color: #ff6700;
+  --theme--background: #e0e0e0;
+  font: Helvetica Neue, Helvetica, Arial, Microsoft Yahei, Hiragino Sans GB,
+    Heiti SC, WenQuanYi Micro Hei, sans-seri;
+}
+
+body {
+  position: relative;
+  line-height: 1.5;
+  font-size: 14px;
+  font-style: normal;
+  color: #333;
+  background-color: #fff;
+  min-width: 1226px;
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  font-size: inherit;
+}
+
+ul {
+  list-style: none;
+}
+.container {
+  min-width: inherit;
+  margin: 0 auto;
+}
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: #333;
+}
+
+header {
+  justify-content: space-around;
+}
+
+header ul {
+  display: grid;
+  grid-template-rows: 40px;
+  place-items: center;
+  margin-left: -10px;
+}
+header .navInfo {
+  grid-template-columns: repeat(10, 60px);
+}
+
+header .navLogin {
+  grid-template-columns: repeat(3, 56px);
+}
+
+header ul a {
+  color: #b0b0b0;
+}
+
+.shoppingCart .iconfont {
+  line-height: 40px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.shoppingCart {
+  background: #3b2323;
+  color: #1a0f0f;
+}
+
+.logNav {
+  width: 1226px;
+  height: 100px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logNav .logNav_logo {
+  width: 60px;
+}
+
+.logNav .logNav_list {
+  display: grid;
+  grid-template-columns: repeat(9, 60px);
+  grid-template-rows: 60px;
+  place-items: center;
+}
+
+/*轮播选项卡*/
+.Banner_menu {
+  position: relative;
+  width: 1226px;
+  margin: 0 auto;
+}
+
+/* 轮播图区域 */
+
+.banner {
+  position: relative;
+  width: inherit;
+  height: 460px;
+  font-size: 0;
+  overflow: hidden;
+  z-index: 1;
+}
+.bannerPic {
+  position: absolute;
+  top: 0;
+  left: -1226px;
+  width: 8582px;
+  height: 100%;
+  z-index: 0;
+}
+.bannerPic li {
+  float: left;
+}
+.bannerPic img {
+  width: 1226px;
+  height: 460px;
+}
+.bannerDot {
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+  width: 200px;
+  height: 10px;
+  z-index: 30;
+}
+.bannerDot span {
+  float: left;
+  width: 8px;
+  height: 8px;
+  border: 1px solid #555;
+  margin: 0 5px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 30;
+}
+.active {
+  background-color: #0f0;
+}
+#toLeft,
+#toRight {
+  position: absolute;
+  display: block;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  top: 50%;
+  margin-top: -20px;
+  color: #424242;
+  transition: all 0.2s;
+  z-index: 30;
+}
+#toLeft {
+  left: 234px;
+}
+#toRight {
+  right: 0;
+}
+#toLeft:hover,
+#toRight:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+/* 轮播图区域结束，左侧选项卡开始 */
+.menu {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 460px;
+}
+
+.Menu.bannerMenu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 234px;
+  height: inherit;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 20;
+}
+.Menu.bannerMenu li {
+  display: grid;
+  grid-template-columns: 200px 34px;
+  grid-template-rows: 42px;
+  line-height: 42px;
+}
+
+.Menu.bannerMenu li:hover {
+  background-color: var(--theme--color);
+}
+
+.bannerMenu li span,
+.bannerMenu li a {
+  color: #f4f4f4;
+}
+
+.bannerMenu li a {
+  margin-left: 20px;
+}
+.bannerMenu li span {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.Menu.hidden {
+  position: absolute;
+  top: 0;
+  left: 234px;
+  width: 992px;
+  height: 460px;
+  border: 1px 1px 1px 0 solid #424242;
+  z-index: 20;
+  cursor: pointer;
+}
+.Hidden_list {
+  height: 100%;
+  overflow: hidden;
+}
+.Hidden_list  {
+  visibility: hidden;
+}
+
+
+.hidden_list ol li {
+  float: left;
+  width: 246px;
+  height: 230px;
+}
+.hidden_list ol li a {
+  display: block;
+  width: 100%;
+  height: 70px;
+  margin-top: 8px;
+  text-align: left;
+  margin-left: 16px;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.hidden_list ol li img {
+  float: left;
+}
+.hidden_list ol li span {
+  float: left;
+  width: 160px;
+  height: 40px;
+  font-size: 14px;
+  line-height: 40px;
+  margin-left: 12px;
+  transition: color 0.3s;
+}
+.hidden_list ol li span:hover {
+  color: #ff6700;
+}
