@@ -1,0 +1,56 @@
+{
+    "list": [{
+            "price": "4888",
+            "src": "https://vtorjin.github.io/mi/img/vue/tourism/1.jpg",
+            "id": "41",
+            "info": "普吉岛纯玩团"
+        },
+        {
+            "price": "30000",
+            "src": " https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2553925541,1675370384&fm=26&gp=0.jpg",
+            "id": "42",
+            "info": "中东麦加圣地朝拜"
+        },
+        {
+            "price": "4288",
+            "src": "https://vtorjin.github.io/mi/img/vue/tourism/5.jpg",
+            "id": "43",
+            "info": "三亚2日游+东南亚风格建筑住宿"
+        },
+        {
+            "price": "4999",
+            "src": "https://vtorjin.github.io/mi/img/vue/tourism/3.jpg",
+            "id": "44",
+            "info": "舟山群岛家庭游"
+        },
+        {
+            "price": "4558",
+            "src": "https://vtorjin.github.io/mi/img/vue/tourism/4.jpg",
+            "id": "45",
+            "info": "柬埔寨吴哥窟探险游"
+        },
+        {
+            "price": "2528",
+            "src": "https://vtorjin.github.io/mi/img/vue/tourism/5.jpg",
+            "id": "46",
+            "info": "海南岛5日陪玩"
+        },
+        {
+            "price": "12588",
+            "src": " https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3374422630,4026011452&fm=26&gp=0.jpg",
+            "id": "47",
+            "info": "中东6日狂欢"
+        },
+        {
+            "price": "4888",
+            "src": "https://vtorjin.github.io/mi/img/vue/tourism/2.jpg",
+            "id": "48",
+            "info": "泰国7日游"
+        }, {
+            "price": "52988",
+            "src": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=899698990,2364271784&fm=26&gp=0.jpg",
+            "id": "49",
+            "info": "夏威夷10日狂欢"
+        }
+    ]
+}

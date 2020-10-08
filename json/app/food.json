@@ -1,0 +1,111 @@
+{
+	"list": [{
+			"price": "18",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/1.jpg",
+			"id": "21",
+			"info": "蘑菇牛肉烩面"
+		},
+		{
+			"price": "28",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/2.jpg",
+			"id": "22",
+			"info": "牛肉烩饭+鸡腿+可乐"
+		},
+		{
+			"price": "28",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/3.jpg",
+			"id": "23",
+			"info": "牛肉丸子烩面+鸡扒+米饭"
+		},
+		{
+			"price": "30",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/4.jpg",
+			"id": "24",
+			"info": "煎小羊排烩饭"
+		},
+		{
+			"price": "18",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/5.jpg",
+			"id": "25",
+			"info": "牛肉丸子烩面"
+		},
+		{
+			"price": "16",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/6.jpg",
+			"id": "26",
+			"info": "鸡腿蔬菜便当"
+		},
+		{
+			"price": "10",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/7.jpg",
+			"id": "27",
+			"info": "开胃芒果"
+		},
+		{
+			"price": "16",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/8.jpg",
+			"id": "28",
+			"info": "汤锅肥牛"
+		},
+		{
+			"price": "28",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/9.jpg",
+			"id": "29",
+			"info": "意大利肉酱面"
+		},
+		{
+			"price": "18",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/10.jpg",
+			"id": "30",
+			"info": "蘑菇海鲜烩饭"
+		},
+		{
+			"price": "28",
+			"src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602139532621&di=56fa8f912582bee7b7c07ce24f8c6bf8&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201209%2F29%2F20120929173051_MY32y.jpeg",
+			"id": "31",
+			"info": "日式天妇罗炸虾"
+		},
+		{
+			"price": "12",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/12.jpg",
+			"id": "32",
+			"info": "番茄芝士意面"
+		},
+		{
+			"price": "32",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/13.jpg",
+			"id": "33",
+			"info": "意大利肉酱面(双份肉酱)"
+		},
+		{
+			"price": "48",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/14.jpg",
+			"id": "34",
+			"info": "三文鱼片"
+		},
+		{
+			"price": "58",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/15.jpg",
+			"id": "35",
+			"info": "纯肉烧烤套餐(标准)"
+		},
+		{
+			"price": "98",
+			"src": "https://vtorjin.github.io/mi/img/vue/food/11.jpg",
+			"id": "36",
+			"info": "纯肉烧烤套餐(加量)"
+		},
+		{
+			"price": "48",
+			"src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602142390244&di=3c75f3c5e7bb93edf0ee91986503b130&imgtype=0&src=http%3A%2F%2Fqcloud.dpfile.com%2Fpc%2FS8BRuiSCXGhXmC9o_SyYpbg7H3SHGGQPrEMYy5UQ0pVWzN_4hUPhHPENFzwE2h71TYGVDmosZWTLal1WbWRW3A.jpg",
+			"id": "37",
+			"info": "夏威夷风情披萨"
+		},
+		{
+			"price": "58",
+			"src": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1602139774899&di=e15e6a34862134eaf0bbd255053ebccf&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201503%2F06%2F20150306152148_MkPXU.jpeg",
+			"id": "39",
+			"info": "生鲜档套餐"
+		}
+	]
+}
