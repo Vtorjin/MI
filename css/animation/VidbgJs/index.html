@@ -1,0 +1,52 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Vidbg.js视频背景网页插件</title>
+
+    <link href="./css/insideElementDemo.css" rel="stylesheet" type="text/css">
+    <link href="./css/vidbg.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+    <div id="container">
+
+        <div id="main">
+            <section class="section-first">
+                <div class="text">
+                    <h1>视频背景插件</h1>
+                </div>
+            </section>
+            <section class="section-second">
+                <div class="text">
+                    <h1>还可以带遮罩效果</h1>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <script src="./js/index.js"></script>
+
+    <script type="text/javascript">
+        var sectionFirst = new vidbg('.section-first', {
+            mp4: './media/mp4_video.mp4',
+            webm: './media/webm_video.webm',
+            poster: 'media/fallback.jpg',
+        })
+
+        var sectionSecond = new vidbg('.section-second', {
+            mp4: './media/mp4_video.mp4',
+            webm: 'media/webm_video.webm',
+            poster: 'media/fallback.jpg',
+            overlay: true,
+            overlayColor: '#03A9F4',
+            overlayAlpha: 0.8,
+        })
+    </script>
+
+</body>
+
+</html>
